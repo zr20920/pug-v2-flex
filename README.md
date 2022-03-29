@@ -1,4 +1,4 @@
-# v2-pug-flex
+# pug-v2-flex
 
 ## Project setup
 ```
