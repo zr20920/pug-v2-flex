@@ -1,5 +1,6 @@
 <template>
-  <div>登录</div>
+  <div class="login">
+  </div>
 </template>
 
 <script>

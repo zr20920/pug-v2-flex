@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="txt-32 txt-primary txt-right">sad撒大所多撒多撒多撒多所</div>
+    <div class="txt-32 txt-primary txt-right border1">sad撒大所多撒多撒多撒多所</div>
     <ul class="flex-y-between">
       <li class="txt-h1 txt-bold pb-20"><router-link to='/'>home</router-link></li>
       <li><router-link to='/login'>login</router-link></li>
@@ -32,5 +32,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  .border1 {
+    border: 2px solid red;
+  }
 }
 </style>
