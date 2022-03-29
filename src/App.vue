@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="txt-32 txt-primary txt-right">sad撒大所多撒多撒多撒多所</div>
-    <ul>
+    <ul class="flex-y-between">
       <li class="txt-h1 txt-bold pb-20"><router-link to='/'>home</router-link></li>
       <li><router-link to='/login'>login</router-link></li>
     </ul>
